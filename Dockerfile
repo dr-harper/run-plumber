@@ -17,6 +17,8 @@ RUN install2.r --error --deps TRUE \
     xts \
     plumber
 
+# EXPOSE $PORT
+
 WORKDIR /app
 
 COPY . .
