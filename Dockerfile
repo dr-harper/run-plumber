@@ -1,5 +1,7 @@
 FROM amanas/r-runtime
 
+LABEL maintainer="Andrés Mañas Mañas"
+
 EXPOSE 8080
 
 WORKDIR /app
