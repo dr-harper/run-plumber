@@ -6,6 +6,6 @@ See in [docker hub](https://hub.docker.com/r/amanas/run-plumber).
 
 Just override [app.R](https://github.com/amanas/run-plumber/blob/master/app.R) contents with your own code.
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/amanas/run-plumber)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/dr-harper/test-plumber)
 
 <!-- docker run -p 9090:8080 gcr.io/PROJECT_ID/IMAGE -->
